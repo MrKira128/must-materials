@@ -1,0 +1,23 @@
+[submodule "file-organization"]
+	path = file-organization
+	url = git@github.com:MrKira128/file-organization.git
+
+[submodule "operating-systems-I"]
+	path = operating-systems-I
+	url = git@github.com:MrKira128/operating-systems-I.git
+
+[submodule "data-communication-and-network"]
+	path = data-communication-and-network
+	url = git@github.com:MrKira128/data-communication-and-network.git
+
+[submodule "software-engineering-I"]
+        path = software-engineering-I
+        url = git@github.com:MrKira128/software-engineering-I.git
+
+[submodule "system-programming-and-assembl"]
+        path = system-programming-and-assembl
+        url = git@github.com:MrKira128/system-programming-and-assembl.git
+
+
+
+
