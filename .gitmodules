@@ -21,3 +21,6 @@
 
 
 
+[submodule "design-and-analysis-of-algorithms"]
+	path = design-and-analysis-of-algorithms
+	url = git@github.com:nourgaser/design-and-analysis-of-algorithms.git
